@@ -7,4 +7,7 @@ package org.flat8.library;
  * @version 0.0.1
  */
 public class Crowd {
+
+    String name = "";
+
 }
