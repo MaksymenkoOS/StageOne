@@ -18,4 +18,6 @@ public class Crowd {
 
     List<SchoolTeacher> teachers = new LinkedList<>();
 
+    Boolean b;
+
 }
