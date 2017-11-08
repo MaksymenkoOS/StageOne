@@ -9,6 +9,5 @@ package org.flat8.library;
 public class Crowd {
 
     String name = "";
-    String surname = "";
 
 }
