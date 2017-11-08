@@ -1,5 +1,10 @@
 package org.flat8.library;
 
+import org.flat8.sked.stageone.SchoolTeacher;
+
+import java.util.LinkedList;
+import java.util.List;
+
 /**
  * Class can create neaded amount of people
  *
@@ -9,5 +14,8 @@ package org.flat8.library;
 public class Crowd {
 
     String name = "";
+
+
+    List<SchoolTeacher> teachers = new LinkedList<>();
 
 }
